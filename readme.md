@@ -1,6 +1,8 @@
 # Pytorch-DeepVO
 
-This is an Implementation of DeepVO with CNN / CNN-LSTM
+This is an Implementation of DeepVO with CNN / CNN-LSTM.
+
+As for the experiment results, you can read my [Master's thesis](http://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CMFD&dbname=CMFD201802&filename=1018186763.nh&v=MTcyNDNMdXhZUzdEaDFUM3FUcldNMUZyQ1VSTE9mWnVkc0ZDbmdWYnJJVkYyNkZyS3dHTmJLckpFYlBJUjhlWDE=), or go to [Zhihu](https://www.zhihu.com/question/65068625/answer/256306051) for detailed discussion.
 
 ## 代码架构
 
